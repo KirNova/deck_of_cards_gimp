@@ -18,7 +18,7 @@ vollständig lokal, modular, zukunftssicher – und mit Haltung.
 
 ---
 
-## 🛠️ Features (aktueller Stand)
+##  Features (aktueller Stand)
 
 - Integration direkt im GIMP-Menü: `Deck of Cards > Export Card`
 - Exportiert sichtbare Ebenen als PNG mit Alphakanal
