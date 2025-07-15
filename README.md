@@ -1,4 +1,4 @@
-# 🃏 deck_of_cards_gimp
+#  deck_of_cards_gimp
 
 Ein universelles, plattformübergreifendes **GIMP-Plugin zur Erstellung individueller Spielkarten**.  
 Entwickelt für Künstler*innen, Musiker*innen, Labels, Lehrer*innen oder Geschichtenerzähler –  
@@ -6,7 +6,7 @@ vollständig lokal, modular, zukunftssicher – und mit Haltung.
 
 ---
 
-## 🎯 Zielsetzung
+##  Zielsetzung
 
 - Plugin für **GIMP 3.0.4 oder höher**
 - Plattformübergreifend für **Linux (ArchLinux)** und **Windows 11 Pro**
@@ -28,7 +28,7 @@ vollständig lokal, modular, zukunftssicher – und mit Haltung.
 
 ---
 
-## 📁 Projektstruktur (geplant)
+##  Projektstruktur (geplant)
 
 deck_of_cards_gimp/
 ├── gimp-plugin/
@@ -48,7 +48,7 @@ deck_of_cards_gimp/
 
 ---
 
-## 🌍 Mehrsprachigkeit
+##  Mehrsprachigkeit
 
 Das Plugin ist **lokalisierbar mit gettext**.
 
@@ -63,7 +63,7 @@ Das Plugin ist **lokalisierbar mit gettext**.
 
 ---
 
-## 🧪 Plattformstatus
+##  Plattformstatus
 
 | Plattform       | Status           | Besonderheit                            |
 |----------------|------------------|-----------------------------------------|
@@ -74,7 +74,7 @@ Das Plugin ist **lokalisierbar mit gettext**.
 
 ---
 
-## 🧱 Beispiel für Plugin-Registrierung (lokalisierbar)
+##  Beispiel für Plugin-Registrierung (lokalisierbar)
 
 ```python
 import gettext
